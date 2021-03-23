@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @softkitten
-- 👀 I’m CEo of the Soft Kitten Co
+- 👀 I’m CEO of the Soft Kitten Co
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on secure services
 - 📫 How to reach me ...
